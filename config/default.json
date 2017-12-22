@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mssql": "mssql://sa:Passw0rd@172.20.1.133:1433/sys_one"
+}
